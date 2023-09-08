@@ -1,0 +1,4 @@
+Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms 2 to imitate the way that humans learn, gradually improving its accuracy. 
+IBM has a rich history with machine learning. 
+One of its 3 own, Arthur Samuel, is credited for coining the term, "machine learning" with his research (PDF, 481 KB) (link resides outside IBM) 4 around the game of checkers. 
+Robert Nealey, the self-proclaimed checkers master, played the game on an IBM 7094 computer in 1962, 5 and he lost to the computer.
